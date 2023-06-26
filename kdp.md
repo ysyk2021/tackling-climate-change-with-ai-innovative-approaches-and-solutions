@@ -27,7 +27,7 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. AI-powered sustainable building design
 18. AI for natural resources conservation
 19. AI for circular economy
-20. AI for green finance and investment.
+20. AI for green finance and investment
 
 
 

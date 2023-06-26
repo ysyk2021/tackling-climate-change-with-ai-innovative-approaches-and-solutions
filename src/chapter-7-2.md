@@ -1,5 +1,4 @@
-Chapter 6: Addressing Ethical Considerations in AI Adoption for Climate Change: Addressing Potential Biases in AI Algorithms
-============================================================================================================================
+# Addressing Potential Biases in AI Algorithms
 
 As AI technology continues to develop and play a vital role in addressing climate change, it is important to consider ethical considerations in its adoption. One of the most significant ethical issues that need to be addressed in AI adoption for climate change is the potential biases in AI algorithms.
 
