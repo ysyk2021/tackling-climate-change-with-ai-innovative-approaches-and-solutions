@@ -1,4 +1,3 @@
-# Explanation of Climate Change and Its Impact on Society
 
 Climate change is one of the most urgent challenges facing our planet today. It refers to the long-term changes in temperature, precipitation patterns, and other weather phenomena that are occurring as a result of human activity. The impacts of climate change are far-reaching and include rising sea levels, more frequent and severe weather events, and changes in ecosystems that can lead to the extinction of plant and animal species.
 

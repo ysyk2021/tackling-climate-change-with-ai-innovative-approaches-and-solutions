@@ -1,5 +1,3 @@
-Chapter 5: Supporting Climate Change Adaptation with AI
-=======================================================
 
 AI technology has the potential to support climate change adaptation efforts by providing innovative approaches and solutions. In this chapter, we will explore the use of AI for supporting climate change adaptation, including disaster response and infrastructure resilience, personalized recommendations for effective adaptation strategies, and addressing potential challenges and ethical considerations in using AI for climate change adaptation.
 

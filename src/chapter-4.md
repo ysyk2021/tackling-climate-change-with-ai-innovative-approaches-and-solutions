@@ -1,5 +1,3 @@
-Chapter 3: Improving Energy Efficiency with AI
-==============================================
 
 In this chapter, we will explore the use of AI for improving energy efficiency in various sectors, including industry and transportation. We will also discuss personalized recommendations for renewable energy sources and sustainable practices, as well as potential limitations and ethical considerations in using AI for energy efficiency improvement.
 

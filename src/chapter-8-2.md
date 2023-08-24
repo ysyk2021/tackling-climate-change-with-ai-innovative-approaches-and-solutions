@@ -1,5 +1,3 @@
-Conclusion: Discussion of Potential Future Developments in AI for Tackling Climate Change
-=========================================================================================
 
 Artificial Intelligence (AI) has enormous potential to support climate change mitigation and adaptation efforts. In this book, we have explored various innovative approaches and solutions that leverage AI technology to reduce carbon emissions, increase resource efficiency, and enhance climate resilience.
 

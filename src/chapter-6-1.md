@@ -1,4 +1,3 @@
-# Use of AI for Supporting Climate Change Adaptation, Including Disaster Response and Infrastructure Resilience
 
 In this chapter, we will explore the use of AI for supporting climate change adaptation, including disaster response and infrastructure resilience. By leveraging the power of AI, we can develop more effective strategies for adapting to a changing climate and minimizing the impacts of extreme weather events.
 

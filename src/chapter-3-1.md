@@ -1,4 +1,3 @@
-# Use of AI for monitoring and predicting climate change patterns and trends
 
 Artificial Intelligence (AI) has the potential to play a significant role in monitoring and predicting climate change. By analyzing vast amounts of data from various sources, including satellite imagery, weather patterns, and ocean currents, AI algorithms can identify patterns and trends in environmental changes that may be critical to mitigating the impact of climate change.
 

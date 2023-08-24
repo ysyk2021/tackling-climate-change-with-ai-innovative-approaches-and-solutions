@@ -1,4 +1,3 @@
-# Explanation of AI Technology and Its Capabilities for Addressing Climate Change
 
 In this chapter, we will explore the capabilities of AI technology for addressing climate change. AI, or artificial intelligence, refers to the ability of machines to perform tasks that usually require human intelligence, such as learning from experience and making decisions based on data.
 

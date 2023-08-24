@@ -1,5 +1,3 @@
-Overview of the Role of AI in Tackling Climate Change and Its Benefits
-====================================================================================
 
 Climate change is one of the most pressing issues facing our planet today, with significant impacts on society and the environment. It is imperative that we take urgent action to reduce greenhouse gas emissions and mitigate the effects of climate change.
 
