@@ -16,3 +16,7 @@ In the following chapters, we will dive deeper into specific AI applications and
 By examining the synergies between AI and climate change, this book aims to inspire and empower readers to harness the transformative potential of AI in combating climate change. Together, we can work towards a more sustainable and resilient future for generations to come.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

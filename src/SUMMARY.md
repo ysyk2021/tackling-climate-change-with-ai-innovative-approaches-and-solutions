@@ -29,3 +29,4 @@
   - [Ensuring transparency and accountability in AI adoption for climate change mitigation and adaptation](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
