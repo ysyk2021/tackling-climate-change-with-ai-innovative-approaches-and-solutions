@@ -1,5 +1,4 @@
-Chapter: Use of AI-Powered Tools for Reducing Carbon Footprint
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the use of AI-powered tools for reducing carbon footprint, focusing on optimized supply chain management and sustainable building design. These innovative approaches leverage AI technologies to enhance efficiency, minimize waste, and promote sustainable practices.
 

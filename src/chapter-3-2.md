@@ -1,5 +1,4 @@
-Chapter: Personalized Recommendations for Reducing Greenhouse Gas Emissions
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential of AI in providing personalized recommendations for individuals to reduce their greenhouse gas (GHG) emissions. By leveraging AI technologies, personalized recommendations can empower individuals to make informed choices and adopt sustainable behaviors that contribute to mitigating climate change.
 

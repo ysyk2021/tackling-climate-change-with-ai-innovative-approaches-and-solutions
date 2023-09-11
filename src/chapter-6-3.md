@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Ethical Considerations in Using AI for Climate Change Adaptation
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the potential challenges and ethical considerations that arise when using AI for climate change adaptation. While AI presents innovative approaches and solutions, it is essential to understand and address these challenges to ensure responsible and equitable use of AI technologies in tackling climate change.
 

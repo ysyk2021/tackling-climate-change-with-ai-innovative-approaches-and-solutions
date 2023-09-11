@@ -1,5 +1,4 @@
-Chapter: Explanation of Climate Change and Its Impact on Society
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an explanation of climate change and its profound impact on society. Understanding the causes, mechanisms, and consequences of climate change is crucial for developing effective AI-driven solutions to mitigate its effects and build resilience in the face of this global challenge.
 

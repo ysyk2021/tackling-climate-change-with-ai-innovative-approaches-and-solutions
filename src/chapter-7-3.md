@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability in AI Adoption for Climate Change Mitigation and Adaptation
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the importance of ensuring transparency and accountability in the adoption of AI for climate change mitigation and adaptation. As AI technologies play an increasingly significant role in addressing climate challenges, it is crucial to prioritize transparency and accountability to build trust, ensure fairness, and mitigate potential risks.
 

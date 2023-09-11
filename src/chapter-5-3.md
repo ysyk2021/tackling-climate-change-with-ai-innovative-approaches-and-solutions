@@ -1,5 +1,4 @@
-Chapter: Addressing Ethical Considerations in Using AI for Carbon Footprint Reduction
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical considerations that arise from using AI for carbon footprint reduction. While AI offers immense potential to reduce greenhouse gas emissions and mitigate climate change, it also raises questions about data privacy, algorithmic bias, and social equity.
 

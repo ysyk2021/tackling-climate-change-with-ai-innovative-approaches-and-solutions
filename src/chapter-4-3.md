@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Energy Efficiency Improvement
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the potential limitations and ethical considerations that arise when using AI for energy efficiency improvement. While AI technologies offer innovative approaches to optimize energy consumption and reduce greenhouse gas emissions, it is important to address these challenges to ensure responsible and effective use of AI in this context.
 

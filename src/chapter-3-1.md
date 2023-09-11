@@ -1,5 +1,4 @@
-Chapter: Use of AI for Monitoring and Predicting Climate Change Patterns and Trends
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the use of AI technologies in monitoring and predicting climate change patterns and trends. By leveraging machine learning algorithms and big data analysis, AI plays a crucial role in enhancing our understanding of climate change, enabling more accurate predictions, and informing effective mitigation strategies.
 

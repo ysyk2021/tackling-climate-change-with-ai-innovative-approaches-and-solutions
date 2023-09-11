@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations When Using AI for Climate Change Solutions
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the ethical considerations when using AI for climate change solutions. The use of AI presents opportunities for mitigating the effects of climate change, but it also raises ethical issues such as fairness, accountability, transparency, and bias.
 

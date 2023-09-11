@@ -1,5 +1,4 @@
-Chapter: Personalized Recommendations for Effective Adaptation Strategies
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the use of personalized recommendations powered by AI to develop effective adaptation strategies for addressing climate change. As climate change poses unprecedented challenges, it is crucial to leverage innovative approaches and solutions, such as AI, to provide tailored recommendations that help individuals and communities adapt to the changing environment.
 

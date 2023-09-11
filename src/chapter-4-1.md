@@ -1,5 +1,4 @@
-Chapter: Use of AI for Improving Energy Efficiency in Various Sectors, Including Industry and Transportation
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine how AI can be leveraged to enhance energy efficiency in different sectors, including industry and transportation. As the demand for energy continues to rise and climate change concerns intensify, utilizing AI-driven innovative approaches and solutions becomes crucial in optimizing energy consumption and reducing greenhouse gas emissions.
 

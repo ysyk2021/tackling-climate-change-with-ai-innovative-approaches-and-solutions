@@ -1,5 +1,4 @@
-Chapter: Advantages of AI for Improving Climate Change Research and Mitigation
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous advantages that AI offers for improving climate change research and mitigation efforts. AI technologies have the potential to revolutionize our understanding of climate change dynamics, enhance predictive capabilities, optimize resource management, and drive innovative solutions towards a more sustainable future.
 

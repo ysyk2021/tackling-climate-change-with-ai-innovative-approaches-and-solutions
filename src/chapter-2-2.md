@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Addressing Climate Change
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an explanation of AI technology and its capabilities for addressing climate change. Understanding the potential of AI in tackling climate change is crucial for harnessing its power to develop innovative approaches and solutions.
 
